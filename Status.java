@@ -1,0 +1,4 @@
+
+public enum Status {
+	UNSTARTED, READY, RUNNING, BLOCKED, TERMINATED
+}
